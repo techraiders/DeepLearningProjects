@@ -19,3 +19,13 @@ def adapt_PNG(the_PNG):
 
 def adapt_image(the_img):
     return np.uint8(np.clip(the_img.round(), 0, 255)) # steps 3, 4, 5
+
+
+def grayscale_to_BW(grayscale_pic, threshold):
+    """This function converts a grayscale image to black and white, using a global threshold."""
+    rows, cols = np.shape(grayscale_pic)
+    BW_pic = np.zeros((rows, cols))
+    for row in range(rows):
+        for col in range(cols):
+            BW_pic[row, col] = 0 if grayscale_pic[row, col] <= threshold else 255
+    return BW_pic
