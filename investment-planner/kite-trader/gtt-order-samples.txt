@@ -1,0 +1,5 @@
+action,gtt_id,tradingsymbol,exchange,transaction_type,quantity,trigger_price,order_price,product,order_type,validity,last_price,notes
+create,,INFY,NSE,BUY,1,702.0,702.5,CNC,LIMIT,DAY,798.0,Create INFY buy GTT
+modify,112127,INFY,NSE,BUY,2,701.0,701.5,CNC,LIMIT,DAY,798.0,Modify quantity & prices
+delete,112128,INFY,NSE,BUY,1,702.0,702.5,CNC,LIMIT,DAY,798.0,Delete by gtt_id
+delete,,INFY,NSE,BUY,1,702.0,702.5,CNC,LIMIT,DAY,798.0,Delete by instrument match

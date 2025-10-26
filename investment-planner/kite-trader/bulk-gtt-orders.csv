@@ -1,0 +1,2 @@
+action,gtt_id,tradingsymbol,exchange,transaction_type,quantity,trigger_price,order_price,product,order_type,validity,last_price,notes
+create,,INFY,NSE,BUY,1,702.0,702.5,CNC,LIMIT,DAY,798.0,Create INFY buy GTT
