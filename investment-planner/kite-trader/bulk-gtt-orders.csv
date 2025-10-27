@@ -1,2 +1,11 @@
 action,gtt_id,tradingsymbol,exchange,transaction_type,quantity,trigger_price,order_price,product,order_type,validity,last_price,notes
-create,,INFY,NSE,BUY,1,702.0,702.5,CNC,LIMIT,DAY,798.0,Create INFY buy GTT
+create,,SMALLCAP,NSE,BUY,10,101.0,100.0,CNC,LIMIT,DAY,110.0,Created by Python Program
+create,,SMALLCAP,NSE,BUY,16,93.0,92.59,CNC,LIMIT,DAY,101.85,Created by Python Program
+create,,SMALLCAP,NSE,BUY,25,86.0,85.72,CNC,LIMIT,DAY,94.3,Created by Python Program
+create,,SMALLCAP,NSE,BUY,40,80.0,79.37,CNC,LIMIT,DAY,87.31,Created by Python Program
+create,,SMALLCAP,NSE,BUY,64,74.0,73.49,CNC,LIMIT,DAY,80.84,Created by Python Program
+create,,SMALLCAP,NSE,BUY,102,69.0,68.04,CNC,LIMIT,DAY,74.84,Created by Python Program
+create,,SMALLCAP,NSE,BUY,163,64.0,63.0,CNC,LIMIT,DAY,69.3,Created by Python Program
+create,,SMALLCAP,NSE,BUY,259,59.0,58.33,CNC,LIMIT,DAY,64.16,Created by Python Program
+create,,SMALLCAP,NSE,BUY,411,54.0,54.0,CNC,LIMIT,DAY,59.4,Created by Python Program
+create,,SMALLCAP,NSE,BUY,652,50.0,50.0,CNC,LIMIT,DAY,55.0,Created by Python Program
