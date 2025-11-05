@@ -2,4 +2,4 @@ models/
 data/
 __pycache__
 .vscode
-investment-manager/order-management/*.csv
+investment-manager/order-management/**/*.csv
